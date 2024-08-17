@@ -1,0 +1,9 @@
+# Ignore virtual environment directory typically named .venv
+.venv
+
+# Ignore Python bytecode files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore Python bytecode files with $py.class suffix
+*$py.class
